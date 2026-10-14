@@ -1,6 +1,6 @@
 # hospital_token
 
-Hospital Token Management.
+Hospital Token Management (Flutter)
 
 ## Getting Started
 
